@@ -1,0 +1,16 @@
+Github :
+1. Git est un logiciel de gestion , permettant de gérer les versions des fichiers de programmation.
+Comparé à Github, c'est un logiciel de gestion et non une plateforme web
+2. Un fichier à déposer sur le site Github
+3. commit : Commande pour modifications sur le projet "local" émis sur le site Github
+   push : Commande pour modifier le projet mais transfère vers un projet "distant"
+   pull : Commande pour intégrer un autre projet local dans le contenu
+4. Le fichier "README.md" est un fichier obligatoire qui introduit en contenant des informations sur les autres fichiers.
+5. On peut copier ce repository existant en écrivant "git clone"
+
+Système d'exploitation :
+1. Un OS est un système d'exploitation, permettant à utiliser un appareil généralement (smartphone, ordinateur)
+2. Windows OS , Mac OS et Linux OS
+3. Famille d'OS
+4. Ubuntu, Debian, Linux Mint, Archlinux
+5. Linux est bien plus vaste et accessible pour l'utilisateur que sur les autres OS. (opensource)
